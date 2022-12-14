@@ -24,3 +24,7 @@ The app, which has 4 pages and lets users rent anywhere in the globe and pay wit
 The user may check out all of the available homes, compare their costs, and view their various amenities by entering the city, the length of the vacation, and the number of guests on the main page, which serves as the app's landing page.
 
 The user is led to the Rentals page after entering their travel details; it has a list of all the homes that fit their criteria and also displays their locations on a Google Map.
+
+## AuthenticateMe
+
+For transactions through metamask we created another app called AuthenticateMe which uses ethereum stack on goerli testnet and trnasactions are visible live on etherscan.
