@@ -4,11 +4,11 @@
 
 ## Team Members:
 
-Sai Aneesha Maruboyina
-Meher Lasya Papineni
-Sanchit Dass
-Dhanusha Mallavajala
-Vithala Venkata Sai Hari Shreya
+Sai Aneesha Maruboyina,
+Meher Lasya Papineni,
+Sanchit Dass,
+Dhanusha Mallavajala,
+Vithala Venkata Sai Hari Shreya,
 Ruthvik Reddy Vangala
 
 Airbnb is a prime example of a  company driven by the growth-at-all-cost model and uses the principle of ‘ extraction imperative’.
