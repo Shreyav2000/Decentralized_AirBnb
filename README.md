@@ -2,6 +2,14 @@
 
 # Decentralized_AirBnb with AuthenticateMe For Transactions
 
+## Team Members:
+
+Sai Aneesha Maruboyina
+Meher Lasya Papineni
+Sanchit Dass
+Dhanusha Mallavajala
+Vithala Venkata Sai Hari Shreya
+Ruthvik Reddy Vangala
 
 Airbnb is a prime example of a  company driven by the growth-at-all-cost model and uses the principle of ‘ extraction imperative’.
 This is a decentralized web3.0 version of the AirBnb renting website built for EVM compatible blockchains.
